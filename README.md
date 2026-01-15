@@ -67,22 +67,6 @@ I care about:
 
 ---
 
-## Selected projects
-(Replace the placeholders with links to your repositories and short descriptions.)
-
-- [project-name-1](https://github.com/your-username/project-name-1) — Production-grade REST API built with Spring Boot; features input validation, pagination, and JWT-based auth.
-- [project-name-2](https://github.com/your-username/project-name-2) — Data-processing pipeline that ingests, transforms, and stores data with robust error handling.
-- [project-name-3](https://github.com/your-username/project-name-3) — Small utility/CLI to automate X for developer productivity.
-
----
-
-## GitHub Stats
-![Sapthagiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapthagirivaasankr-source&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sapthagirivaasankr-source&layout=compact&theme=default)
-
----
-
 ## Currently learning
 - Advanced Spring features and reactive programming
 - System design patterns for high-throughput services
